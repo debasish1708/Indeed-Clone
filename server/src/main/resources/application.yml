@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: ServerApplication
+  data:
+    mongodb:
+      database: IndedClone
+      uri: mongodb+srv://debasish1708:admin@cluster0.kbh2k5k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      auto-index-creation: true
